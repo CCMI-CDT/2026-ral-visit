@@ -1,0 +1,5 @@
+[book]
+title = "Software Engineering Fundamentals"
+authors = ["Timo Betcke", "Matthew Scroggs", "Bryce Shirley"]
+language = "en"
+src = "src"
