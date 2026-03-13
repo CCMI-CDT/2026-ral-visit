@@ -17,7 +17,7 @@ To enter the RAL site and participate in the tours, all visitors must comply wit
 
 ## ISIS Muon and Neutron Source Tour Requirements
 
-* **Mandatory Safety Reading and form:** All visitors to ISIS must read and fill in the form [ISIS Safety Information and form for Visitors](https://forms.office.com/pages/responsepage.aspx?id=HDZmP36oWEGPYZnoLbPKyFmXnfddzPNDgS6UQ9QJgmBUNFVCOVYzVDBWQzlFM00yMDVJT01ITTNENCQlQCN0PWcu). You will be asked to confirm you have read this during registration.
+* **Mandatory Safety Reading and form:** All visitors to ISIS must read and fill in the form [ISIS Safety Information and form for Visitors](https://forms.office.com/pages/responsepage.aspx?id=HDZmP36oWEGPYZnoLbPKyFmXnfddzPNDgS6UQ9QJgmBUNFVCOVYzVDBWQzlFM00yMDVJT01ITTNENCQlQCN0PWcu). You will be asked to confirm you have read and filled in the form during registration.
 
 ---
 
