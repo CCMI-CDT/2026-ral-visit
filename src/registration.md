@@ -1,6 +1,6 @@
 # Registration & Preparation
 
-**The registration form will be linked on this page shortly.**
+**Complete the registration form [here](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=HDZmP36oWEGPYZnoLbPKyKE4T-UuZo1OtbocsE7giCFUMEg3NFVaRk80SE5LQlQxNFlMQkdCQ0ZSUS4u).**
 
 ---
 
