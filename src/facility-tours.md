@@ -15,6 +15,12 @@ To enter the RAL site and participate in the tours, all visitors must comply wit
 
 ---
 
+## ISIS Muon and Neutron Source Tour Requirements
+
+* **Mandatory Safety Reading and form:** All visitors to ISIS must read and fill in the form [ISIS Safety Information and form for Visitors](https://forms.office.com/pages/responsepage.aspx?id=HDZmP36oWEGPYZnoLbPKyFmXnfddzPNDgS6UQ9QJgmBUNFVCOVYzVDBWQzlFM00yMDVJT01ITTNENCQlQCN0PWcu). You will be asked to confirm you have read this during registration.
+
+---
+
 ## Diamond Light Source Tour Requirements
 
 The Diamond Light Source advices the following for visitors participating in the tour:
@@ -25,12 +31,6 @@ The Diamond Light Source advices the following for visitors participating in the
 
 ---
 
-## ISIS Muon and Neutron Source Tour Requirements
-
-* **Mandatory Safety Reading:** All visitors to ISIS must read the [ISIS Safety Information for Visitors](https://forms.office.com/pages/responsepage.aspx?id=HDZmP36oWEGPYZnoLbPKyFmXnfddzPNDgS6UQ9QJgmBUNFVCOVYzVDBWQzlFM00yMDVJT01ITTNENCQlQCN0PWcu). You will be asked to confirm you have read this during registration.
-
----
-
 ## Action Required
 
-Before the visit, please complete the CCMI RAL Visit 2026 registration form.
+Before the visit, please complete the CCMI RAL Visit 2026 [registration form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=HDZmP36oWEGPYZnoLbPKyKE4T-UuZo1OtbocsE7giCFUMEg3NFVaRk80SE5LQlQxNFlMQkdCQ0ZSUS4u).
