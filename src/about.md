@@ -36,19 +36,19 @@ The site is home to several major experimental facilities and computing centres.
 
 During the day, the visitors will interact with several key areas of the laboratory:
 
-| **Ada Lovelace Centre (ALC)** |
+| [**Ada Lovelace Centre (ALC)**](https://www.adalovelacecentre.ac.uk/) |
 | :--- |
 | Provides scientific computing expertise and innovation to help researchers using the STFC National Laboratories do bigger and better science. |
 
-| **Scientific Computing Department (SCD)** |
+| [**Scientific Computing Department (SCD)**](https://www.sc.stfc.ac.uk/) |
 | :--- |
 | An international centre of excellence for advanced computing expertise and digital research infrastructure.<br><br>![Scientific Computing Department](scd.png) |
 
 
-| **Diamond Light Source** |
+| [**Diamond Light Source**](https://www.diamond.ac.uk/Home.html) |
 | :--- |
 | The UK’s national synchrotron, serving scientists and researchers from around the world.<br><br>![Diamond Light Source](diamond.png) |
 
-| **ISIS Neutron and Muon Source** |
+| [**ISIS Neutron and Muon Source**](https://www.isis.stfc.ac.uk/) |
 | :--- |
 | Enables researchers to explore materials down to the atomic level, providing insights to answer key scientific questions and drive innovations that benefit society.<br><br>![ISIS Neutron and Muon Source](isis.png) |
