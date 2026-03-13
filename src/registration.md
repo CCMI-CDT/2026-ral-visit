@@ -20,7 +20,7 @@ The registration form will require you to confirm that you have read and underst
 During the afternoon session, there will be a 1.5-hour block of lightning talks featuring both CCMI PhD students and STFC staff, along with 45 minutes of discussion.
 
 #### Time Limits
-**Each lightning talk must be strictly 4 to 5 minutes long**. Please prepare your materials accordingly, keeping in mind that there will be minimal time for changeovers between speakers.
+**Each lightning talk must be strictly no more than 4 minutes**. Please prepare your materials accordingly, keeping in mind that there will be minimal time for changeovers between speakers.
 
 #### Talk Content Guidelines
 *Further details defining exactly what we expect will be added here.*
