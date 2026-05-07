@@ -2,14 +2,16 @@
 
 | Time | Activity | Details & Speakers |
 | :--- | :--- | :--- |
-| 09:00 - 09:30 | Arrival, Registration & Coffee | Welcome for CCMI CDT visitors. |
-| 09:30 - 10:45 | Morning Plenary Talks | **Paul Quinn:** Welcome STFC & Ada Lovelace Centre Overview<br>**Timo Betcke:** Welcome & CCMI<br>**Tyrone Rees:** Computational Maths & RALFit<br>**Bryce Shirley:** The CDT student experience at STFC and CCMI |
-| 10:45 - 11:00 | Buffer | Walk to Diamond Light Source. |
-| 11:00 - 12:00 | Diamond Light Source Tour | 1-hour Diamond facility tour. |
-| 12:00 - 13:00 | Lunch & Networking | Opportunity for informal discussions between STFC staff and CDT students. |
-| 13:00 - 13:15 | Buffer | Walk to ISIS facility. |
-| 13:15 - 14:15 | ISIS Muon and Neutron Source Tours | 1-hour ISIS facility tour. |
-| 14:15 - 14:30 | Buffer | Return to visitor centre. |
-| 14:30 - 16:30 | Lightning Talks & Software Discussion | **1.5 hours talks + 45 mins discussions:**<br>• PhD students sharing their research/projects.<br>• STFC Staff<br>• Discussion (45 mins) |
-| 16:30 - 17:00 | Closing Talk & Wrap-up | **Speaker TBC.**<br>Summary of the day, next steps (June CDT Open Days, STFC software weeks). |
-| 17:00 | End of Visit | Departure. |
+| **09:00 - 09:30** | Arrival, Registration & Coffee | Coffee, tea, & Biscuits provided by ALC.<br>Visitors must be registered at RAL Reception. |
+| **09:30 - 10:50** | Morning Introductory Talks | **Paul Quinn (Director of Ada Lovelace Centre)**<br>Welcome, STFC & overview of ALC<br><br>**Timo Betcke (Director of CCMI CDT)**<br>Welcome & overview of CCMI<br><br>**Tyrone Rees (Head of Computational Mathematics Theme CMT, STFC)**<br>Computational Maths Theme & RALFit<br><br>**Bryce Shirley (Research Software Engineer at STFC & CCMI CDT Student)**<br>The CDT student experience at STFC and CCMI |
+| **10:50 - 11:00** | Transition Buffer | Walk to Diamond Light Source. |
+| **11:00 - 12:00** | Diamond Light Source Tour | One-hour guided tour of the Diamond Light Source facility. |
+| **12:00 - 12:10** | Transition Buffer | Walk back to visitor centre. |
+| **12:10 - 13:00** | Lunch and Networking | Buffet provided by ALC. |
+| **13:00 - 13:15** | Buffer | Walk to ISIS facility. |
+| **13:15 - 14:15** | ISIS Muon and Neutron Source Tours | 1-hour ISIS facility tour. 3 groups of 10. |
+| **14:15 – 14:30** | Transition Buffer & Refreshments | Return to visitor centre.<br>Refreshments available on arrival. |
+| **14:30 - 16:30** | Lightning Talks & Discussion | **CCMI PhD students 4-min lightning talks**<br><br>**STFC Staff 4-min lightning talks:**<br><br>**Jaehoon Cha** (AI Data Analytics Group Lead, AI4Science Theme)<br>_"AI-driven data analysis workflow designed to support scientific research"_<br><br>**Margaret Duff** (Inverse Problems Group Lead, Computational Mathematics Theme)<br>_"The Core Imaging Library: Open Source Python Software for CT and other Inverse Problems"_<br><br>**Nick Gould** (Senior Research Fellow, Optimisation Group, Computational Mathematics Theme)<br>_"A lightning description of the GALAHAD numerical optimization library"_<br><br>**Benedikt Daurer** (Senior Software Scientist, Diamond)<br>_"The story of how I became a lead developer of the PtyPy reconstruction software"_<br><br>**Jess Huntley** (Senior Mathematical Research Software Engineer, Optimisation Group, Computational Mathematics Theme)<br>_"Measuring the carbon cost of numerical optimization algorithms"_<br><br>**Open Discussions** |
+| **16:30 - 16:55** | Closing Talk | **Jens Jensen (Head of Research Software Engineering Theme, STFC)** |
+| **16:55 - 17:00** | Summary and Next Steps | Summary of the day and upcoming events. |
+| **17:00** | End of Visit | Departure. |
