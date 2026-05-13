@@ -2,6 +2,8 @@
 
 [Overview](intro.md)
 
+[Location](location.md)
+
 [About the Organizations](about.md)
 
 [Provisional Timetable](timetable.md)
