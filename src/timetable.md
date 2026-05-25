@@ -11,7 +11,7 @@
 | **13:00 - 13:15** | Buffer | Walk to ISIS facility. |
 | **13:15 - 14:15** | ISIS Muon and Neutron Source Tours | 1-hour ISIS facility tour. 3 groups of 10. |
 | **14:15 – 14:30** | Transition Buffer & Refreshments | Return to visitor centre.<br>Refreshments available on arrival. |
-| **14:30 - 16:30** | Lightning Talks & Discussion (Order Below) | **CCMI PhD students 4-min lightning talks**<br><br>**STFC Staff 4-min lightning talks:**<br><br>**Benedikt Daurer** (Senior Software Scientist, Diamond)<br>_"The story of how I became a lead developer of the PtyPy reconstruction software"_<br><br>**Jaehoon Cha** (AI Data Analytics Group Lead, AI4Science Theme)<br>_"AI-driven data analysis workflow designed to support scientific research"_<br><br>**Jess Huntley** (Senior Mathematical Research Software Engineer, Optimisation Group, Computational Mathematics Theme)<br>_"Measuring the carbon cost of numerical optimization algorithms"_<br><br>**Margaret Duff** (Inverse Problems Group Lead, Computational Mathematics Theme)<br>_"The Core Imaging Library: Open Source Python Software for CT and other Inverse Problems"_<br><br>**Nick Gould** (Senior Research Fellow, Optimisation Group, Computational Mathematics Theme)<br>_"A lightning description of the GALAHAD numerical optimization library"_<br><br>**Open Discussions** |
+| **14:30 - 16:30** | Lightning Talks & Discussion [(Order Below)](#lightning-talks-order) | **CCMI PhD students 4-min lightning talks**<br><br>**STFC Staff 4-min lightning talks:**<br><br>**Benedikt Daurer** (Senior Software Scientist, Diamond)<br>_"The story of how I became a lead developer of the PtyPy reconstruction software"_<br><br>**Jaehoon Cha** (AI Data Analytics Group Lead, AI4Science Theme)<br>_"AI-driven data analysis workflow designed to support scientific research"_<br><br>**Jess Huntley** (Senior Mathematical Research Software Engineer, Optimisation Group, Computational Mathematics Theme)<br>_"Measuring the carbon cost of numerical optimization algorithms"_<br><br>**Margaret Duff** (Inverse Problems Group Lead, Computational Mathematics Theme)<br>_"The Core Imaging Library: Open Source Python Software for CT and other Inverse Problems"_<br><br>**Nick Gould** (Senior Research Fellow, Optimisation Group, Computational Mathematics Theme)<br>_"A lightning description of the GALAHAD numerical optimization library"_<br><br>**Open Discussions** |
 | **16:30 - 16:55** | Closing Talk | **Jens Jensen** (Head of Research Software Engineering Theme, STFC)<br>"Saving lives with computational models - a software engineering story"<br><br>Abstract - climate change is one of the drivers behind an increase in excess mortality in urban environments in Europe. Can we use computational models to mitigate the risks and save lives?  We look at the challenges from the (Research) Software Engineer's perspective|
 | **16:55 - 17:00** | Summary and Next Steps | Summary of the day and upcoming events. |
 | **17:00** | End of Visit | Departure. |
@@ -59,7 +59,7 @@
 
 ---
 
-### Block 4
+### Block 4: STFC Staff
 
 | | Lightning Talks Order |
 |--:|:---|
