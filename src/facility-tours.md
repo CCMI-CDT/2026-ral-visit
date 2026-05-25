@@ -1,3 +1,37 @@
+# Tour Groups
+
+### Diamond Tour Groups 11:00-12:00
+
+| | Group 1 | Group 2 | Group 3 |
+|--:|:---|:---|:---|
+| **1** | Sam Cunningham (STFC Staff) | Jess/ Huntley (STFC Staff) | Bryce Shirley (STFC Staff) |
+| **2** | Letizia Protopapa (STFC Staff) | Louis Clare | Maciej Kaczorek |
+| **3** | Timo Betcke | Advaith Velavan | Charlotte Savage |
+| **4** | Callum Lau | Anastasia Chanbour | Shany Neeman |
+| **5** | Divij Tirthankar Ghose | Oliver Nash | Skye Purchase |
+| **6** | Kelan Gray | Colin Cotter | Ross Ah-Weng |
+| **7** | Lewis O'Donnell | Anees Hussain | Ammar Ali |
+| **8** | Ben Stewart | Lucas Pigott | Martin Benning |
+| **9** | | | |
+| **10** | | | |
+
+<br>
+
+### ISIS Tours 13:15-14:15
+
+| | Group 1 | Group 2 | Group 3 |
+|--:|:---|:---|:---|
+| **1** | Sam Cunningham (STFC Staff) | Margaret Duff (STFC Staff) | Bryce Shirley (STFC Staff) |
+| **2** | Letizia Protopapa (STFC Staff) | Louis Clare | Maciej Kaczorek |
+| **3** | Timo Betcke | Advaith Velavan | Charlotte Savage |
+| **4** | Callum Lau | Anastasia Chanbour | Shany Neeman |
+| **5** | Divij Tirthankar Ghose | Oliver Nash | Skye Purchase |
+| **6** | Kelan Gray | Colin Cotter | Ross Ah-Weng |
+| **7** | Lewis O'Donnell | Anees Hussain | Ammar Ali |
+| **8** | Ben Stewart | Lucas Pigott | Martin Benning |
+| **9** |  | | |
+| **10** | | | |
+
 # Facility Tours & Safety Requirements
 
 As part of the CCMI visit to the Rutherford Appleton Laboratory (RAL), attendees will participate in guided tours of the Diamond Light Source and the ISIS Muon and Neutron Source. 
