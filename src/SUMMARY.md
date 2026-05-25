@@ -6,7 +6,7 @@
 
 [About the Organizations](about.md)
 
-[Provisional Timetable](timetable.md)
+[Timetable](timetable.md)
 
 [Facility Tours & Safety Guidelines](facility-tours.md)
 
