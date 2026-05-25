@@ -9,11 +9,11 @@ The day will include tours of world-class facilities like the Diamond Light Sour
 2. **[Location](location.md)**
    Information on How to Find US.
 
-4. **[Provisional Timetable](timetable.md)**
+4. **[Timetable](timetable.md)**
   Schedule of events, talks, and networking sessions.
 
 5. **[Facility Tours & Safety Guidelines](facility-tours.md)**
-  Essential site access rules, ID requirements, and tour information.
+   Tour groups, essential site access rules, ID requirements, and tour information.
 
 6. **[Registration](registration.md)**
   Mandatory registration.
