@@ -17,3 +17,7 @@ The day will include tours of world-class facilities like the Diamond Light Sour
 
 6. **[Registration](registration.md)**
   Mandatory registration.
+
+7. **[Visitor Centre Health and Safety](hands.md)**
+  
+   
