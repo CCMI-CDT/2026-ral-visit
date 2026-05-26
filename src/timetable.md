@@ -76,3 +76,5 @@
 | **17** | Nick Gould |
 
 > **5 mins Discussion**
+
+## Group Photo!
