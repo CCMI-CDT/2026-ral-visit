@@ -60,6 +60,7 @@
 | **10** | Louis Clare |
 | **11** | Maciej Kaczorek |
 | **12** | Skye Purchase |
+| **13** | Ben Stewart |
 
 > **5 mins Discussion**
 
@@ -69,11 +70,11 @@
 
 | | Lightning Talks Order |
 |--:|:---|
-| **13** | Benedikt Daurer |
-| **14** | Jaehoon Cha |
-| **15** | Jess Huntley |
-| **16** | Margaret Duff |
-| **17** | Nick Gould |
+| **14** | Benedikt Daurer |
+| **15** | Jaehoon Cha |
+| **16** | Jess Huntley |
+| **17** | Margaret Duff |
+| **18** | Nick Gould |
 
 > **5 mins Discussion**
 
