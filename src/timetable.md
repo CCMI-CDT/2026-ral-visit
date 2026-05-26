@@ -23,7 +23,7 @@
 | | Lightning Talks Order |
 |--:|:---|
 | **1** | Advaith Velavan |
-| **2** | Ammar Ali |
+| **2** | Kelan Gray |
 | **3** | Anastasia Chanbour |
 | **4** | Anees Hussain |
 | **5** | Callum Lau |
