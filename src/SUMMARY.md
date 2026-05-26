@@ -11,3 +11,5 @@
 [Facility Tours & Safety Guidelines](facility-tours.md)
 
 [Registration](registration.md)
+
+[Visitor Centre Health and Safety](hands.md)
