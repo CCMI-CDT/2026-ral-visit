@@ -25,24 +25,17 @@
 | **1** | Advaith Velavan |
 | **2** | Kelan Gray |
 | **3** | Anastasia Chanbour |
-| **4** | Anees Hussain |
-| **5** | Callum Lau |
 
-> **6 mins Discussion**
+> **5 mins Discussion**
 
 ---
-
 ### Block 2
 
-| | Lightning Talks Order |
-|--:|:---|
-| **6** | Charlotte Savage |
-| **7** | Divij Tirthankar Ghose |
-| **8** | Lewis O'Donnell |
-| **9** | Louis Clare |
-| **10** | Maciej Kaczorek |
+| **4** | Anees Hussain |
+| **5** | Shany Neeman |
+| **6** | Oliver Nash |
 
-> **6 mins Discussion**
+> **5 mins Discussion**
 
 ---
 
@@ -50,23 +43,32 @@
 
 | | Lightning Talks Order |
 |--:|:---|
-| **11** | Oliver Nash |
-| **12** | Ross Ah-Weng |
-| **13** | Shany Neeman |
-| **14** | Skye Purchase |
+| **7** | Charlotte Savage |
+| **8** | Divij Tirthankar Ghose |
+| **9** | Lewis O'Donnell |
 
-> **6 mins Discussion**
+> **5 mins Discussion**
 
 ---
 
-### Block 4: STFC Staff
+### Block 4
+
+| **10** | Louis Clare |
+| **11** | Maciej Kaczorek |
+| **12** | Skye Purchase |
+
+> **5 mins Discussion**
+
+---
+
+### Block 5: STFC Staff
 
 | | Lightning Talks Order |
 |--:|:---|
-| **15** | Benedikt Daurer |
-| **16** | Jaehoon Cha |
-| **17** | Jess Huntley |
-| **18** | Margaret Duff |
-| **19** | Nick Gould |
+| **13** | Benedikt Daurer |
+| **14** | Jaehoon Cha |
+| **15** | Jess Huntley |
+| **16** | Margaret Duff |
+| **17** | Nick Gould |
 
-> **6 mins Discussion**
+> **5 mins Discussion**
