@@ -31,6 +31,8 @@
 ---
 ### Block 2
 
+| | Lightning Talks Order |
+|--:|:---|
 | **4** | Anees Hussain |
 | **5** | Shany Neeman |
 | **6** | Oliver Nash |
@@ -53,6 +55,8 @@
 
 ### Block 4
 
+| | Lightning Talks Order |
+|--:|:---|
 | **10** | Louis Clare |
 | **11** | Maciej Kaczorek |
 | **12** | Skye Purchase |
